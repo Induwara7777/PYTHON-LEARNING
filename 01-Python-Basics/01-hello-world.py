@@ -1,2 +1,4 @@
-print("Hello, Python!")
-print("My Python Learning Journey Begins!")
+# Simple Output Massage
+
+print("Hello, World!")
+
